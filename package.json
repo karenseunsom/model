@@ -1,0 +1,20 @@
+{
+  "name": "model",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karenseunsom/model.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karenseunsom/model/issues"
+  },
+  "homepage": "https://github.com/karenseunsom/model#readme"
+}
